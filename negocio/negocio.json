@@ -1,0 +1,52 @@
+{
+  "nombre": "Panadería La Espiga",
+  "rubro": "Panadería",
+  "tipoSchema": "Bakery",
+  "eslogan": "Pan de masa madre, facturas y tortas por encargo. Horneamos todas las mañanas desde las 6.",
+  "descripcion": "Panadería en Mariano Acosta: pan de masa madre, facturas, tortas por encargo y catering para eventos. Pedidos por WhatsApp.",
+  "url": "https://romanvarela-rgv.github.io/plantilla-negocio-local/",
+  "indexar": false,
+  "whatsapp": "5491100000000",
+  "mensajeWhatsapp": "Hola! Quería hacer un pedido.",
+  "telefono": "11 0000-0000",
+  "direccion": {
+    "calle": "Av. Ejemplo 1234",
+    "localidad": "Mariano Acosta",
+    "provincia": "Buenos Aires",
+    "codigoPostal": "1723"
+  },
+  "horarios": {
+    "lun": [["07:00", "13:00"], ["16:30", "20:30"]],
+    "mar": [["07:00", "13:00"], ["16:30", "20:30"]],
+    "mie": [["07:00", "13:00"], ["16:30", "20:30"]],
+    "jue": [["07:00", "13:00"], ["16:30", "20:30"]],
+    "vie": [["07:00", "13:00"], ["16:30", "21:00"]],
+    "sab": [["07:00", "14:00"], ["17:00", "21:00"]],
+    "dom": [["08:00", "13:00"]]
+  },
+  "notaHorarios": "Feriados abrimos de 8 a 13.",
+  "tituloServicios": "Qué hacemos",
+  "servicios": [
+    { "titulo": "Pan de masa madre", "descripcion": "Fermentación de 24 horas. Campo, integral y de semillas.", "precio": "Desde $3.500" },
+    { "titulo": "Facturas", "descripcion": "Medialunas de manteca y de grasa, vigilantes y bolas de fraile.", "precio": "$9.000 la docena" },
+    { "titulo": "Tortas por encargo", "descripcion": "Con 48 horas de anticipación. Mandanos una foto de referencia.", "precio": "Consultar" },
+    { "titulo": "Catering", "descripcion": "Sándwiches de miga y bandejas para cumpleaños y eventos." }
+  ],
+  "resenas": [
+    { "texto": "Reseña de ejemplo: acá va el texto de una reseña real de Google, copiado tal cual.", "autor": "Nombre del cliente", "estrellas": 5 },
+    { "texto": "Reseña de ejemplo: cargar solo reseñas reales, con el nombre que el autor muestra en Google.", "autor": "Nombre del cliente", "estrellas": 5 }
+  ],
+  "preguntas": [
+    { "pregunta": "¿Toman pedidos para el mismo día?", "respuesta": "Pan y facturas sí, escribinos antes de las 10. Tortas, con 48 horas de anticipación." },
+    { "pregunta": "¿Hacen envíos?", "respuesta": "Sí, dentro de Mariano Acosta para pedidos desde $20.000." },
+    { "pregunta": "¿Qué medios de pago aceptan?", "respuesta": "Efectivo, transferencia y Mercado Pago." }
+  ],
+  "redes": {
+    "instagram": "https://www.instagram.com/"
+  },
+  "tema": {
+    "colores": { "marca": "#9E2B25", "acento": "#F2C14E" },
+    "fuentes": { "titulos": "Bricolage Grotesque", "texto": "Figtree" }
+  },
+  "credito": { "texto": "Sitio hecho por RGV", "url": "https://romangaelvarela.online" }
+}
