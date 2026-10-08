@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+.vscode/
+build/
+.DS_Store
+
+# Documentos del cliente (datos personales y bancarios)
+cliente/
