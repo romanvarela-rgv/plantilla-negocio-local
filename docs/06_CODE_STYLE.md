@@ -29,7 +29,7 @@ Comentar el porqué, no el qué. El README explica cómo usar la plantilla para 
 
 ## 7. Testing
 - `node --test` (incluido en Node, sin dependencias).
-- Se testea: horarios (cortados, medianoche, domingo a lunes, cierra pronto), validación, escape de HTML y un build completo con datos maliciosos.
+- Se testea: horarios (cortados, medianoche, domingo a lunes, cierra pronto), validación, escape de HTML, la salida SEO (JSON-LD, robots, sitemap, CSP, Open Graph) y un build completo con datos maliciosos.
 - Tests en `test/*.test.mjs`. Corren en CI en cada push.
 
 ## 8. Convención de commits
